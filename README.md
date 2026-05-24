@@ -134,54 +134,6 @@ class Gangasaivikas:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gangasaivikas&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gangasaivikas&theme=tokyo-night&hide_border=true&area=true&area_color=185fa5"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Gangasaivikas/Gangasaivikas/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-> **To enable the snake animation**, create `.github/workflows/snake.yml` in your profile repo with this content:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 0 * * *"}]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Gangasaivikas
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
-
 ## 🤝 Let's Connect & Build Together
 
 <p align="center">

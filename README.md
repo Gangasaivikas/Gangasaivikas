@@ -2,7 +2,6 @@
 <!--       GANGASAIVIKAS — GITHUB PROFILE README v3.0       -->
 <!-- ════════════════════════════════════════════════════════ -->
 
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Gangasaivikas&label=Profile+Views&color=0d76c2&style=flat" />
   <img src="https://img.shields.io/github/followers/Gangasaivikas?label=Followers&style=flat&color=0d76c2" />
@@ -50,34 +49,24 @@ class Gangasaivikas:
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48"/><br>SQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48"/><br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48"/><br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48"/><br>GitHub
-    </td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/><br>Python</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48"/><br>SQL</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="48"/><br>Java</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48"/><br>FastAPI</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48"/><br>GitHub</td>
   </tr>
 </table>
 
 <br>
 
-| | Trait | Details |
-|--|-------|---------|
-| 🐍 | Python-first thinker | Scripting, automation, APIs, ML pipelines |
-| 🧠 | AI & ML explorer | Gen AI, EDA, model building & evaluation |
-| 📊 | Data storyteller | Power BI dashboards, Matplotlib, Seaborn |
-| 🗄️ | SQL & DBMS fluent | Relational DB design, complex queries |
-| ⚡ | Backend builder | FastAPI REST APIs, web scraping, HTML/CSS |
-| 🚀 | Always levelling up | New tools, new frameworks, every week |
+| Trait | Details |
+|-------|---------|
+| 🐍 Python-first | Scripting, automation, APIs, ML pipelines |
+| 🧠 AI & ML explorer | Gen AI, EDA, model building & evaluation |
+| 📊 Data storyteller | Power BI dashboards, Matplotlib, Seaborn visuals |
+| 🗄️ SQL & DBMS fluent | Relational DB design, complex multi-table queries |
+| ⚡ Backend builder | FastAPI REST APIs, web scraping, HTML/CSS |
+| 🚀 Always levelling up | New tools, new frameworks, every single week |
 
 ---
 
@@ -130,7 +119,8 @@ class Gangasaivikas:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangasaivikas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gangasaivikas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="46%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gangasaivikas&theme=tokyonight&hide_border=true&layout=compact" width="46%"/>
 </p>
 
 ---
@@ -156,30 +146,6 @@ class Gangasaivikas:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gangasaivikas/Gangasaivikas/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-
-> **To enable the snake animation**, create `.github/workflows/snake.yml` in your profile repo with this content:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 0 * * *"}]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Gangasaivikas
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
